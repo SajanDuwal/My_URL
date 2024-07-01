@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Chat</string>
+    <string name="btn_signUp_text">Sign Up</string>
+    <string name="tv_no_account_message">Already have a My Chat Account..</string>
+    <string name="btn_login_text">Login</string>
+    <string name="tv_terms_message">By using My Chat, you agree to My Chat Terms of Use and Privacy Policy</string>
+    <string name="tv_notation_message">Beautiful Private Sharing</string>
+    <string name="hint_full_name">full name</string>
+    <string name="hint_username">username</string>
+    <string name="hint_new_password">new password</string>
+    <string name="hint_password">password</string>
+    <string name="tv_birthday">BirthDay</string>
+    <string name="rb_male">Male</string>
+    <string name="rb_female">Female</string>
+    <string name="btn_register">Register</string>
+    <string name="tv_remember_me">Remember Me</string>
+    <string name="tv_forget_password">Forget Password !!</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="action_logout">Logout</string>
+</resources>
